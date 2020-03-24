@@ -1,0 +1,24 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-image: url(matrix.gif);
+    background-repeat: repeat;
+    background-attachment: local;
+    background-size: 50%;
+}
+#div_1
+{
+    margin-top: 100px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color: #20B022;
+    border: 3px solid #20B022;
+}
